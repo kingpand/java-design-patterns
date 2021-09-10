@@ -105,7 +105,7 @@
         <module>facade</module>
         <module>flyweight</module>
         <module>proxy</module>
-        <module>chain</module>
+        <module>chain-of-responsibility</module>
         <module>command</module>
         <module>interpreter</module>
         <module>iterator</module>
@@ -232,6 +232,8 @@
         <module>table-module</module>
         <module>presentation</module>
         <module>lockable-object</module>
+        <module>fanout-fanin</module>
+        <module>domain-model</module>
     </modules>
 
     <repositories>
@@ -379,12 +381,12 @@
                 <version>${system-lambda.version}</version>
                 <scope>test</scope>
             </dependency>
-		    <dependency>
-			    <groupId>commons-io</groupId>
-			    <artifactId>commons-io</artifactId>
-			    <version>${commons-io.version}</version>
-		        </dependency>
-            </dependencies>
+            <dependency>
+                <groupId>commons-io</groupId>
+                <artifactId>commons-io</artifactId>
+                <version>${commons-io.version}</version>
+            </dependency>
+        </dependencies>
     </dependencyManagement>
     <dependencies>
         <dependency>

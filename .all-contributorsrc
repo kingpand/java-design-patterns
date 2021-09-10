@@ -1550,6 +1550,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "marlo2222",
+      "name": "Marlo Henrique",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40809563?v=4",
+      "profile": "https://github.com/marlo2222",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "AndriyPyzh",
+      "name": "AndriyPyzh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57706635?v=4",
+      "profile": "https://github.com/AndriyPyzh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "karthikbhat13",
+      "name": "karthikbhat13",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22431014?v=4",
+      "profile": "https://github.com/karthikbhat13",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mortezaadi",
+      "name": "Morteza Adigozalpour",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1329687?v=4",
+      "profile": "https://github.com/mortezaadi",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 4,
